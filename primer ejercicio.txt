@@ -9,5 +9,5 @@ Cambio 1: esto tendria que aparecer en el commit N°2|
 -----------------------------------------------------
 
 -----------------------------------------------------
-Cambio 2: esto tendria que aparecer en el commit N°2|
+Cambio 2: esto tendria que aparecer en el commit N°3|
 -----------------------------------------------------
